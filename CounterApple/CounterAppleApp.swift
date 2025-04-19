@@ -11,7 +11,7 @@ import SwiftUI
 struct CounterAppleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(name: "Adonai")
         }
     }
 }
